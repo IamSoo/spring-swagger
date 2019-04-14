@@ -27,3 +27,11 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+### Target
+target
+target/*
+
+###mvn
+.mvn
+.mvn/*

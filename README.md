@@ -11,4 +11,4 @@ mvn clean install
 ### Test
 Run the application class
 Then go here :
-http://localhost:8080/swagger-ui.html  
+http://localhost:8080/swagger-ui.html
